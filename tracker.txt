@@ -1,5 +1,5 @@
-Bitbucket Contributions Tracker
-Your_Name.
+Bitbucket Contributions Tracker At 'La Creativeria' 
+Leonardo Mendoza Fernández
 
 This file is a tracker of all contributions I do at work to the company’s private bitbucket,
 it uses a python script and a git hook to make the logs and push them automatically.
@@ -10,3 +10,7 @@ Contributions:
 2018-01-22 10:25:30
 Created a private contribution on a bitbucket repository.
  1 file changed, 0 insertions(+), 0 deletions(-)
+
+2018-01-22 14:57:24
+Created a private contribution on a bitbucket repository.
+ 19 files changed, 299 insertions(+), 569 deletions(-)

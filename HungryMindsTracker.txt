@@ -1,0 +1,13 @@
+Bitbucket Contributions Tracker At 'HungryMinds' 
+Leonardo Mendoza Fernández
+
+This file is a tracker of all contributions I do at work to the company’s private bitbucket,
+it uses a python script and a git hook to make the logs and push them automatically.
+
+
+Contributions:
+
+
+2018-01-23 00:54:42
+Created a private contribution on a bitbucket repository.
+ 4 files changed, 3 insertions(+), 1 deletion(-)
